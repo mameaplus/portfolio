@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.31d6cfe0.css",
+    "main.js": "/static/js/main.4915aa58.js",
+    "static/js/453.1407b060.chunk.js": "/static/js/453.1407b060.chunk.js",
+    "static/media/aplusMain.png": "/static/media/aplusMain.015a994cdf1094f10b91.png",
+    "static/media/polytech.png": "/static/media/polytech.233c29b99db296637b78.png",
+    "static/media/farmafrica.png": "/static/media/farmafrica.3b80f427464b8665d4c3.png",
+    "static/media/digitalid.png": "/static/media/digitalid.0f83d5b5494ac07d7139.png",
+    "static/media/animalbre.png": "/static/media/animalbre.bd776fcff2aa3649e0df.png",
+    "static/media/traceme.png": "/static/media/traceme.daf394e71b8bb0f1bda3.png",
+    "static/media/mohammed_profile.jpg": "/static/media/mohammed_profile.ebc511a2f0581e34cb1b.jpg",
+    "static/media/project-1.jpg": "/static/media/project-1.fc79a5788e9e62826847.jpg",
+    "static/media/profile-3.png": "/static/media/profile-3.38f92e752915f139e543.png",
+    "static/media/blog-post-thumb-card-1.jpg": "/static/media/blog-post-thumb-card-1.f42776bce87ca6a97043.jpg",
+    "index.html": "/index.html",
+    "main.4915aa58.js.map": "/static/js/main.4915aa58.js.map",
+    "453.1407b060.chunk.js.map": "/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.4915aa58.js"
+  ]
+}
